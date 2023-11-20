@@ -30,7 +30,8 @@ a=x
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![output](/Swapping/Swappingoutput.png)
+![Swapping](https://github.com/yamunadass/Swapping-two-values/assets/138971172/d72649da-be43-448d-a872-ab880afa669e)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
